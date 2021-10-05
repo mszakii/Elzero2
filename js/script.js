@@ -1,0 +1,2 @@
+function menu(){var e=document.getElementById("nav");if (e.style.display=="none"){e.style.display="flex";}else{e.style.display="none";}}
+function carbon(){window.location.href= "https://www.google.com/search?q=carbon+neutral&oq=carbon+neutral";}
